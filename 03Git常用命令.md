@@ -101,7 +101,7 @@ Changes to be committed:
 
 当执行 commit 命令后，会出现一个文本文件供你输入提交信息：
 
-![04GitCommint提交信息](images\04GitCommint提交信息.png)
+![04GitCommint提交信息](images/04GitCommint提交信息.png)
 
 在该文本文件中输入提交信息（first commit）后，保存该文件（ESC —> wq）；
 

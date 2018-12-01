@@ -28,9 +28,9 @@
 
 
 
-  ![01Git文件状态](images\01Git文件状态.png)
+  ![01Git文件状态](images/01Git文件状态.png)
 
-![01Git文件状态2](images\01Git文件状态2.png)
+![01Git文件状态2](images/01Git文件状态2.png)
 
 
 
